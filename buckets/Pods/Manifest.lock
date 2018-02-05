@@ -1,0 +1,15 @@
+PODS:
+  - JSSAlertView (3.0.4)
+  - SCLAlertView (0.7.0)
+
+DEPENDENCIES:
+  - JSSAlertView
+  - SCLAlertView
+
+SPEC CHECKSUMS:
+  JSSAlertView: 7d8345c88e6fd8b515bc49f0fc8d8c69f6776b9c
+  SCLAlertView: 8a14ffc40590c619e183eed2298b854385f30be1
+
+PODFILE CHECKSUM: a6ceb4bce12620e4b6498cb922dacbe83b183217
+
+COCOAPODS: 1.1.1
